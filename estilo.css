@@ -1,6 +1,14 @@
+body{
+    background-image: url(descarga.jfif);
+    
+
+
+}
+
+
 .titulos{
     text-align: center;
-    color: blueviolet;
+    color: rgb(23, 61, 209);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
@@ -8,5 +16,14 @@
 p{
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 font-size: 30px;
+font-weight:900;
+color:green;
+
+#menu{
+    color:brown;
+    width:20vw;
+    height: 20vh;
+
+}
 
 }
